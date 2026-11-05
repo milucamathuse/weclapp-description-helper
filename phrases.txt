@@ -1,0 +1,124 @@
+[Sonder]
+X mittig im SN Label weiß überdeckt
+X rechts am SN Label weiß überdeckt
+Beule in der Mitte durch die Schrauben ausgedellt und nicht mehr spürbar aber leicht sichtbar
+2 Netzteile
+
+[3D-Druck]
+Am Gerät befinden sich Ersatzteile aus dem 3D Druck = _
+Am Gerät befinden sich Ersatzteile aus dem 3D Druck = Griff, Entriegelung nachgebogen
+Bezel aus 3D Druck
+Modulblenden aus dem 3D Druck
+Consolenportabdeckung aus TPU
+
+[Portblech]
+Bei Portblech Nr. _ kleine Beule
+Frontbleche mittig Dellen korrigiert bei Port _
+Frontbleche mittig Dellen korrigiert bei Segment 1 - 4 aber nicht ganz weg!
+Frontbleche schäbig Fettfingerrückstände eingebrannt nicht entfernbar
+Frontbleche leicht schäbig
+Frontbleche leicht gebogen Port _
+Frontbleche minimaler Kratzer unter Port _
+Frontbleche einige Kratzer
+SFP Port Nr. _ unten verbogen
+
+[Hinten]
+Hinten einige Macken ausgebessert
+Hinten teilw. nachlackiert
+Oberseite hinten und Rückseite Drecksfleck der nicht weg geht
+
+[Front]
+Front Super
+Folie auf der Front
+Frontaufkleber am Rand unter Port _ mini Macke
+Frontaufkleber am Rand über Port _ mini Macke
+Frontaufkleber zwischen Bezel u. Ports einige Kratzer
+Frontaufkleber am Rand über Port SFP _ kleine Stelle glänzend
+Frontaufkleber neben dem Bezel Beschriftung 2530 J9772a leicht glänzend teils Schrift fehlt
+Front Aufkleber
+Aufkleber oben mackig
+Kratzer auf Front
+Tiefer Kratzer auf Front
+Einige Kratzer auf Front
+Tiefere / Stärkere Kratzer auf Front
+Am Rand kleine Macke
+
+[Bezel]
+Bezel minimale Macke unten
+Bezel minimale Macke oben
+Bezel minimale Macke links
+Bezel minimale Macke rechts
+Bezel mini Kratzer im Logo
+Bezel Macke links unten auf der Ecke ausgebessert
+Bezel geklebt
+
+[Oberfläche]
+Oberseite komplett lackiert
+Oberseite komplett lackiert (ohne Logo)
+Oberseite komplett lackiert (kein Aruba Logo)
+Oberseite minimal Schlieren/Abriebstellen
+Oberseite einige Schlieren/Abriebstellen
+Oberseite minimale Schlieren
+Oberseite minimale Schlieren im Randbereich
+Oberseite minimale Schlieren an den Ecken
+Oberseite Ecken lackiert bei getupft
+Oberseite teilw. nachlackiert mehr im Randbereich
+Oberseite teilw. nachlackiert im Flächenbereich
+Oberseite teilw. nachlackiert im Flächen/Randbereich
+Oberseite nachlackiert tiefe Kratzer ausgebessert
+Oberseite nachlackiert tiefe Kratzer am Rand ausgebessert
+Oberseite stärker nachlackiert tiefe Kratzer ausgebessert
+Oberseite stärker nachlackiert ausgebessert
+Ein paar Schlieren auf der Fläche
+Einige Schlieren auf der Fläche
+Viele Schlieren auf der Fläche
+Viele Schlieren auf der Fläche und seitlich
+Ein paar Kratzer auf der Fläche
+Minimale Kratzer auf der Fläche
+Einige Abriebstellen auf den Seiten
+Einige Abriebstellen auf der Oberfläche
+Beide Seiten minimal getupft
+Beide Seiten bisschen ausgebessert
+Unterseite leicht schlierig
+
+[LED]
+LED _ minimal dunkler
+LED _ dunkel
+LED minimal dunkler
+LED unterschiedlich dunkler
+LED dunkler
+
+[Transceiver]
+SID noch prüfen!
+
+[Module]
+Neuer Kühler
+Folie an der Front
+Kleiner Kratzer am Kühler
+Kleiner Kratzer an der Front
+Modulteile aus Metall sind ein bisschen angelaufen
+Rechter Haltebügel ein Abdruck drunter
+Linker Haltebügel ein Abdruck drunter
+
+[Tendenz]
+Tendenz A
+Tendenz A-
+Tendenz B+
+
+[Cisco Version]
+V01
+V02
+V03
+V04
+V05
+V06
+V07
+V08
+
+[Status]
+--->!!! Im Foto Regal !!!<---
+~~~In Bearbeitung~~~
+~~~Ist in Bearbeitung~~~
+~~~In Oberflächenbearbeitung~~~
+~~~Für auf Abruf, liegt auf der Sammelpalette~~~
+~~Stacking Modul verbaut~~

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>weclapp Textbausteine</title>
+  <style>
+    body { font: 13px/1.45 system-ui, "Segoe UI", sans-serif; margin: 12px; min-width: 420px; }
+    h2 { font-size: 14px; margin: 0 0 6px; }
+    p { margin: 0 0 8px; color: #555; }
+    textarea { width: 100%; box-sizing: border-box; height: 220px; font: 12px/1.4 Consolas, monospace; }
+    .row { display: flex; gap: 8px; align-items: center; margin-top: 8px; }
+    #status { color: #2a7a2a; }
+    code { background: #f0f0f0; padding: 0 3px; border-radius: 3px; }
+  </style>
+</head>
+<body>
+  <h2>Eigene Textbausteine</h2>
+  <p>Werden zusätzlich zur Team-Liste (<span id="count">…</span> Einträge) angeboten.
+     Ein Satz pro Zeile, <code>[Kategorie]</code> als Überschrift, <code>_</code> als Platzhalter.</p>
+  <textarea id="custom" spellcheck="false" placeholder="[Eigene]&#10;Gehäuse leicht verkratzt&#10;Port _ ohne Funktion"></textarea>
+  <div class="row">
+    <button id="save">Speichern</button>
+    <span id="status"></span>
+  </div>
+  <script src="matcher.js"></script>
+  <script src="options.js"></script>
+</body>
+</html>
